@@ -66,16 +66,6 @@
 &none       &none                       &none                                        &none                             &none  &none  &none         &none
             >;
         };
-
-        layer_3 {
-            bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans                  &trans
-&trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans
-&trans  &trans          &trans                  &trans                          &trans  &trans  &trans          &trans
-            >;
-        };
     };
 
     combos {
