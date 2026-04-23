@@ -1,2 +1,2 @@
 # zmk-config
-ZMK Config for CannonKeys
+ZMK Config for CannonKeys BakenekoGo
